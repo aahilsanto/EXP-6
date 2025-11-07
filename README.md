@@ -26,6 +26,11 @@ CIRCUIT DIAGRAM & Output:
 
 ## OBSERVATION TABLE
 
+![exp6_beee_page-0001](https://github.com/user-attachments/assets/ac2447f4-15ad-4c2a-9810-866da270462b)
+![exp6_beee_page-0002](https://github.com/user-attachments/assets/de8c642a-1af8-4b37-8b22-170a5b9ae15d)
+![exp6_beee_page-0003](https://github.com/user-attachments/assets/a5a98788-e187-495e-aef9-4be33924964a)
+![exp6_beee_page-0004](https://github.com/user-attachments/assets/6f2572a2-6f13-40ac-a77b-1eafffc6a20f)
+
 ## PRECAUTION:
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
